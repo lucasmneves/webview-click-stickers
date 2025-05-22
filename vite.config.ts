@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/click-stickers/',
+  base: '/webview-click-stickers/',
   server: {
     host: "::",
     port: 8080,
